@@ -1,0 +1,63 @@
+.ad{
+    color: blue;
+}
+.sd{
+    background-color: red;
+}
+.ad,.sd{
+    font-style: italic;
+    font-weight: bolder;
+    
+}
+p{
+    color:black;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    margin: 30px;
+    padding: 10px;
+    background-image: url(bckg5.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h3{
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    width: 16%;
+    height: 150;
+    background-color: crimson;
+
+}
+h1{
+    margin:auto;
+    padding: 10px;
+    color: whitesmoke;
+    width: 25%;
+    height: 200;
+    background-color: black;
+    text-align: center;
+
+}
+a{
+    color: lightsalmon;
+    text-decoration: none;
+    padding: 5px;
+}
+div{
+    padding: 10px;
+    background-color: black;
+    width: 20%;
+    text-align: center;
+    float: right;
+}
+.prv{
+    padding: 10px;
+    background-color: black;
+    width: 20%;
+    text-align: center;
+    float: left;
+    
+}
